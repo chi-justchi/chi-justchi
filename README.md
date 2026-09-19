@@ -14,17 +14,13 @@ Most of my work revolves around a question I keep coming back to:
 
 ---
 ## ✨ Featured Work
-- **SO-101 + Vision-Language-Action Models**  
-  Teaching a small robot arm to follow language instructions using OpenVLA / OpenVLA-OFT — from collecting demonstrations to fine-tuning and real-world deployment.
-- **When should a robot trust its own policy?**  
-  Exploring deployment-time robustness, distribution shifts, execution feedback, test-time adaptation, and test-time computation for VLA systems.
-- **Unitree Go2 Locomotion**  
-  Training a quadruped to navigate stairs and difficult terrain in simulation. This project also taught me that “the reward function looks reasonable” does not mean the robot will behave reasonably.
-- **LLMs × Social Robots**  
-  Previously worked on an LLM-powered Misty II storytelling robot and studied hallucination, omission, and controllability in generated stories.
+- 🦾 **SO-101 + Vision-Language-Action Models** Teaching a small robot arm to follow language instructions using OpenVLA / OpenVLA-OFT — from collecting demonstrations to fine-tuning and real-world deployment.
+- 🛡️ **When should a robot trust its own policy?** Exploring deployment-time robustness, distribution shifts, execution feedback, test-time adaptation, and test-time computation for VLA systems.
+- 🐕 **Unitree Go2 Locomotion** Training a quadruped to navigate stairs and difficult terrain in simulation. This project also taught me that “the reward function looks reasonable” does not mean the robot will behave reasonably.
+- 🤖 **LLMs × Social Robots** Previously worked on an LLM-powered Misty II storytelling robot and studied hallucination, omission, and controllability in generated stories.
 
 ---
-**Where I've done research:**  
+## Where I've done research
 Adaptive AI Lab · Center for Innovation, Technology, and Aging · RARE Lab · CRA UR2PhD
 
 ---
@@ -57,7 +53,7 @@ A few things I'm exploring that may or may not become real projects:
 
 - 🤖 In my freshman year, I built a **line-following robot** as a toy for high school students. We gave it a **Pac-Man design**, which turned out to be their favorite part!
 
-- 🎒 I love traveling and used to be an avid backpacker. What I love most about solo travel is the unpredictability — you never quite know where the next day will take you or who you'll meet along the way.
+- 🎒 I love traveling and used to be an avid backpacker. What I love most about solo travel is the unpredictability, you never quite know where the next day will take you or who you'll meet along the way.
   
 ---
 ## 🧰 Toolbox
