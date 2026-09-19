@@ -10,6 +10,7 @@ Most of my work revolves around a question I keep coming back to:
 
 ![Location](https://img.shields.io/badge/📍-Tampa%2C_FL-green)
 [![Email](https://img.shields.io/badge/Email-chivo@usf.edu-cfa5b0?style=flat&logo=gmail&logoColor=ffffff)](mailto:chivo@usf.edu)
+[![Personal Web](https://img.shields.io/badge/Website-https%3A%2F%2Fchi--justchi.github.io%2F-blue)](https://chi-justchi.github.io/)
 ![Special](https://img.shields.io/badge/Currently-Looking%20for%20PhD-green?style=social)
 
 ---
